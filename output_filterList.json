@@ -1,0 +1,24 @@
+{
+    "Filtered": [
+        {
+            "title": "Yummy",
+            "artist": "Justin Bieber"
+        },
+        {
+            "title": "Rare",
+            "artist": "Selena Gomez"
+        },
+        {
+            "title": "What A Man Gotta Do",
+            "artist": "Jonas Brothers"
+        }
+   ],
+    "NotFiltered": [
+        {
+            "youtube-name": "Ally Brooke - No Good"
+        },
+        {
+            "youtube-name": "Ava Max - Salt (Official Audio)"
+        }
+    ]
+}
